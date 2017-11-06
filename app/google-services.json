@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "877206157807",
+    "firebase_url": "https://chatapptest-1c552.firebaseio.com",
+    "project_id": "chatapptest-1c552",
+    "storage_bucket": "chatapptest-1c552.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877206157807:android:cf64e7d3272c03fc",
+        "android_client_info": {
+          "package_name": "kr.co.skoop.firebasechatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877206157807-t4cps4gv752qs3oasv1r29dbf4oa3j5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoAYEJh1qvSO6Vi-6TcZSNmKWz_t6tNlE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
